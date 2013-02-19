@@ -1,4 +1,9 @@
 #!/usr/bin/python
+# smsread.py 
+# by KrishnaChaitanya Yarramsetty
+# www.foundstone.com
+
+
 
 import sqlite3 as lite
 import sys
