@@ -7,7 +7,7 @@ Various Utilities to Allow SMS Routing/Forwarding to Email Addresses on iOS
 
 smsread.py	-	
 
-smstest.py	-	
+smsDBQuery.py - utility to query the sms.db
 
 smstrigger.py	-	
 
